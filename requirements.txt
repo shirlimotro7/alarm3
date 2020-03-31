@@ -27,8 +27,3 @@ six==1.14.0
 typing==3.7.4.1
 urllib3==1.25.8
 virtualenv==20.0.10
-<<<<<<< HEAD
-=======
-whitenoise==3.3.1
->>>>>>> 6e2698b3eb557ffdea7173accea80e8f369b6223
-zipp==1.2.0
